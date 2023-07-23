@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShaMim Hossain
+- 👋 Hi, I’m @Jadid
 - 👀 I’m interested in ... Clone Facebook Account
 - 🌱 I’m currently learning ... Clone Facebook Account
 - 💞️ I’m looking to collaborate on ... Anybody Who Teach Me💝
-- 📫 How to reach me ... shamimfreelancer12@gmail.com
+- 📫 How to reach me ... freelancer.shamim045@gmail.com
 
 <!---
 ShaMim1431/ShaMim1431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
